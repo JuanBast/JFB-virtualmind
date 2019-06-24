@@ -1,7 +1,10 @@
 # JFB-virtualmind
 This is a test for a work interview.
 
-Steps to configure the project.
+# Requirements
+Nodejs and MySQL must to be installed.
+
+# Steps to configure the project.
 
 1- Run "server/src/database/jfb_virtualmind.sql" file to generate the MySQL database.
 
