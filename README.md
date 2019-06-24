@@ -56,6 +56,7 @@ npm run dev
 
 Next, for the react client, open a terminal inside the folder "client", and then run:
 npm install
+
 npm start
 
 Hope you like it! xD
